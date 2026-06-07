@@ -79,10 +79,3 @@ A UEFA Champions League style football database with 5 tables:
 ## Tools
 
 PostgreSQL, pgAdmin
-
----
-
-## Author
-
-**Vineet S P** — Data Analyst, Mysore  
-[Portfolio](https://vineetsreekanth.github.io/Vineet_Portfolio/) · [LinkedIn](https://linkedin.com/in/vineet-s-p-b6367a1b6)
